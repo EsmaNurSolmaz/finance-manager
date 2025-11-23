@@ -10,6 +10,25 @@
 
 # Finance Manager Project
 
+Finance Manager projet-ct is a modern finance application that allows you to track your monthly expenses, perform income-expense analyses, and visualize your financial status with graphical charts.
+
+## Features
+- Add income and expenses
+- Expense analysis by categories
+- Monthly financial summary
+- Modern and responsive React interface
+- Node.js + Express backend
+- MongoDB database
+- JWT Authentication
+
+## Technologies
+- **Frontend:** React, React Router, Context API
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Authentication:** JWT
+- **UI:** CSS, Modern components
+
+
 This project consists of two main parts:
 
 - **client/** — React Native Expo-based mobile application  
