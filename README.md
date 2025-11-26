@@ -10,23 +10,31 @@
 
 # Finance Manager Project
 
-Finance Manager projet-ct is a modern finance application that allows you to track your monthly expenses, perform income-expense analyses, and visualize your financial status with graphical charts.
+Finance Manager is a modern and user-friendly mobile application built with React Native (Expo) that helps users track their daily and monthly financial activities. The app allows you to record income and expenses, view categorized spending, and visualize your financial status through interactive charts. Designed with a clean interface and smooth animations, the app aims to simplify budget tracking for everyday use.
 
 ## Features
-- Add income and expenses
-- Expense analysis by categories
-- Monthly financial summary
-- Modern and responsive React interface
-- Node.js + Express backend
-- MongoDB database
-- JWT Authentication
+
+- Add income and expense entries easily
+- Categorize transactions for better analysis
+- View total balance, total expenses, and remaining monthly budget
+- Category-based spending breakdown
+- Periodic financial summary
+- Interactive charts for visual insights (Pie charts)
+- Save important financial notes (e.g., goals, reminders, bills, saving targets)
+- View, edit, or delete notes
+- Set reminders for due bills, payment dates, or savings milestones
+- View real-time currency exchange rates (USD, EUR, GBP, vb.)
+- Auto-refresh or manual refresh options
+- Modern and clean interface
+
 
 ## Technologies
-- **Frontend:** React, React Router, Context API
+- **Frontend:** React Native, Context API, Expo
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT
 - **UI:** CSS, Modern components
+- Currency API 
 
 
 This project consists of two main parts:
